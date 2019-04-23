@@ -1,3 +1,4 @@
-Helloooyy :) 
+# Number Guesser
 
-Number Guesser Game for all of U, Pure JS.
+* Number Guesser Game, Pure JS.
+* Use keybord to guess number.
